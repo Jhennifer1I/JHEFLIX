@@ -1,7 +1,13 @@
 body{
-    background-color: mediumorchid;
+    background-color: rgba(71, 7, 87, 0.808);
     color: beige;
     margin: 0px;
     font-family: "Itim", cursive;
     margin-bottom: 100px;
+}
+header{
+    border-bottom: 3px solid white;
+    padding: 20px;
+    color: beige;
+    font-size: 35px;
 }
