@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(71, 7, 87, 0.808);
+    background-color: rgba(89, 30, 104, 0.808);
     color: beige;
     margin: 0px;
     font-family: "Itim", cursive;
@@ -12,7 +12,7 @@ header{
     font-size: 35px;
 }
 .chamada{
-    background: hotpink;
+    background: rgb(141, 33, 141);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
